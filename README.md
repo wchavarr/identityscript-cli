@@ -14,12 +14,17 @@ The script requires an .edgerc file in your home directory (~/.edgerc or C:\User
 Ensure it has [default] credentials with Identity Management: Read-Only access.
 
 🚀 Usage
+
 Standard Run
+
 Bash
+
 python identityscript.py
 
 Export to CSV
+
 Generates two timestamped CSV files (audit_report...csv and metadata_report...csv).
 
 Bash
-python akamai_audit.py --export
+
+python identityscript.py --export
