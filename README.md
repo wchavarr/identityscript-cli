@@ -56,9 +56,6 @@ Run the script from your terminal using these commands:
 **Standard Audit:**
 `python identityscript.py`
 
-**Sub-Account Audit:**
-`python identityscript.py --switch 1-VJVV:1-2RBL`
-
 **Generate CSV Reports:**
 `python identityscript.py --export`
 
