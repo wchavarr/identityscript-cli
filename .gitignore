@@ -1,0 +1,10 @@
+# Secret Akamai Credentials
+.edgerc
+
+# Python environment and cache
+__pycache__/
+venv/
+.env
+
+# Generated Audit Reports (so your GitHub stays clean)
+*.csv
